@@ -1,0 +1,62 @@
+Added Component: Designator=C21(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Micro SD)
+Add component (AddParameter): Name = "BOM名称"; Value = "TF卡座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HDR2.54-LI-6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=3V3 Pin=R23-1
+Added Pin To Net: NetName=CC Pin=R20-1
+Added Pin To Net: NetName=CC Pin=TYPEC1-A5
+Added Pin To Net: NetName=CC Pin=TYPEC1-B5
+Added Net: Name=CC
+Added Pin To Net: NetName=SD_CLK Pin=J1-5
+Added Pin To Net: NetName=SD_CLK Pin=JP4-3
+Added Net: Name=SD_CLK
+Added Pin To Net: NetName=SD_CMD Pin=J1-3
+Added Pin To Net: NetName=SD_CMD Pin=JP4-4
+Added Net: Name=SD_CMD
+Added Pin To Net: NetName=SD_D0 Pin=J1-7
+Added Pin To Net: NetName=SD_D0 Pin=JP4-1
+Added Net: Name=SD_D0
+Added Pin To Net: NetName=SD_D1 Pin=J1-8
+Added Pin To Net: NetName=SD_D1 Pin=JP4-2
+Added Pin To Net: NetName=SD_D1 Pin=R23-2
+Added Net: Name=SD_D1
+Added Pin To Net: NetName=SD_D2 Pin=J1-1
+Added Pin To Net: NetName=SD_D2 Pin=JP4-6
+Added Pin To Net: NetName=SD_D2 Pin=R1-2
+Added Net: Name=SD_D2
+Added Pin To Net: NetName=SD_D3 Pin=J1-2
+Added Pin To Net: NetName=SD_D3 Pin=JP4-5
+Added Net: Name=SD_D3
+Added Member To Class: ClassName=Sheet1 Member=Component C21 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component J1 TF_Card
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R20 27R
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K

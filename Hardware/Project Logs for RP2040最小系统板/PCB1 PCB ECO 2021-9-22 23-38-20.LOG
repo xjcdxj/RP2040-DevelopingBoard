@@ -1,0 +1,6 @@
+Added Component: Designator=TP4(TEST 0.8)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B1- Pin=TP4-1
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 BAT-

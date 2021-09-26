@@ -1,0 +1,11 @@
+Added Component: Designator=JP5(HDR2.54-LI-6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=JP5-1
+Added Pin To Net: NetName=3V3 Pin=JP5-2
+Added Pin To Net: NetName=+5 Pin=JP5-3
+Added Pin To Net: NetName=+5 Pin=JP5-4
+Added Pin To Net: NetName=GND Pin=JP5-5
+Added Pin To Net: NetName=GND Pin=JP5-6
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 HDR-1X6

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C8 Old Footprint=0603C New Footprint=C 0603_L
+Change Component Footprint: Designator=C9 Old Footprint=0603C New Footprint=C 0603_L
+Change Component Footprint: Designator=TP1 Old Footprint=TEST 1.6 New Footprint=TEST 0.8
+Change Component Footprint: Designator=TP2 Old Footprint=TEST 1.6 New Footprint=TEST 0.8
+Change Component Footprint: Designator=TP3 Old Footprint=TEST 1.6 New Footprint=TEST 0.8

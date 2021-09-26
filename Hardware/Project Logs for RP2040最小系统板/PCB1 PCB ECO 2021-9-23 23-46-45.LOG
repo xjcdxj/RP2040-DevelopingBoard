@@ -1,0 +1,14 @@
+Added Component: Designator=SD1(Micro SD)
+Added Pin To Net: NetName=GND Pin=SD1-0
+Added Pin To Net: NetName=GND Pin=SD1-0
+Added Pin To Net: NetName=GND Pin=SD1-0
+Added Pin To Net: NetName=GND Pin=SD1-0
+Added Pin To Net: NetName=SD_D2 Pin=SD1-1
+Added Pin To Net: NetName=SD_D3 Pin=SD1-2
+Added Pin To Net: NetName=SD_CMD Pin=SD1-3
+Added Pin To Net: NetName=3V3 Pin=SD1-4
+Added Pin To Net: NetName=SD_CLK Pin=SD1-5
+Added Pin To Net: NetName=GND Pin=SD1-6
+Added Pin To Net: NetName=SD_D0 Pin=SD1-7
+Added Pin To Net: NetName=SD_D1 Pin=SD1-8
+Added Member To Class: ClassName=Sheet1 Member=Component SD1 MicroSD
