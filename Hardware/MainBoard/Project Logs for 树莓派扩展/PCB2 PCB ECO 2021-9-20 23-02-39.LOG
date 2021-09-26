@@ -1,0 +1,13 @@
+Added Component: Designator=J1(Micro SD)
+Add component (AddParameter): Name = "BOM名称"; Value = "TF卡座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO21 Pin=J1-1
+Added Pin To Net: NetName=GPIO22 Pin=J1-2
+Added Pin To Net: NetName=GPIO18 Pin=J1-3
+Added Pin To Net: NetName=3V3 Pin=J1-4
+Added Pin To Net: NetName=GPIO5 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GPIO19 Pin=J1-7
+Added Pin To Net: NetName=GPIO20 Pin=J1-8
+Added Member To Class: ClassName=Sheet1 Member=Component J1 TF_Card

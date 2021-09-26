@@ -1,0 +1,116 @@
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=C?(0603C)
+Added Component: Designator=D?(SMA/DO-214AC)
+Added Component: Designator=L?(CD32)
+Added Component: Designator=R?(0603R)
+Added Component: Designator=R?(0603R)
+Added Component: Designator=R?(0603R)
+Added Component: Designator=R?(0603R)
+Added Component: Designator=R?(0603R)
+Added Component: Designator=RPI?(Ê÷Ý®ÅÉ4B)
+Added Component: Designator=U?(SOIC127P600X170-8N)
+Added Component: Designator=U?(QFN-56)
+Added Component: Designator=U?(SOIC-8-208mil)
+Added Pin To Net: NetName=D+ Pin=R?-2
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=R?-2
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-K
+Added Pin To Net: NetName=NetC?_1 Pin=L?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-6
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-5
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=QSPI_SCLK Pin=U?-6
+Added Pin To Net: NetName=QSPI_SCLK Pin=U?-52
+Added Net: Name=QSPI_SCLK
+Added Pin To Net: NetName=QSPI_SD0 Pin=U?-5
+Added Pin To Net: NetName=QSPI_SD0 Pin=U?-53
+Added Net: Name=QSPI_SD0
+Added Pin To Net: NetName=QSPI_SD1 Pin=U?-2
+Added Pin To Net: NetName=QSPI_SD1 Pin=U?-55
+Added Net: Name=QSPI_SD1
+Added Pin To Net: NetName=QSPI_SD2 Pin=U?-3
+Added Pin To Net: NetName=QSPI_SD2 Pin=U?-54
+Added Net: Name=QSPI_SD2
+Added Pin To Net: NetName=QSPI_SD3 Pin=U?-7
+Added Pin To Net: NetName=QSPI_SD3 Pin=U?-51
+Added Net: Name=QSPI_SD3
+Added Pin To Net: NetName=QSPI_SS Pin=U?-56
+Added Net: Name=QSPI_SS
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=L?-2
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-8
+Added Pin To Net: NetName=VCC Pin=U?-10
+Added Pin To Net: NetName=VCC Pin=U?-22
+Added Pin To Net: NetName=VCC Pin=U?-23
+Added Pin To Net: NetName=VCC Pin=U?-33
+Added Pin To Net: NetName=VCC Pin=U?-42
+Added Pin To Net: NetName=VCC Pin=U?-43
+Added Pin To Net: NetName=VCC Pin=U?-44
+Added Pin To Net: NetName=VCC Pin=U?-48
+Added Pin To Net: NetName=VCC Pin=U?-49
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=U?-2
+Added Pin To Net: NetName=VIN Pin=U?-7
+Added Net: Name=VIN
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
