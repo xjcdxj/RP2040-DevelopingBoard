@@ -12,7 +12,9 @@
     供电原理图，使用两节锂电池并联作为电源。
     
     TP5400进行锂电池充电并升压至5V
-    ![Power switch](./tmp/电池电源切换电路.png)
+    
+    ![PowerSwitch](https://github.com/xjcdxj/RP2040-DevelopingBoard/blob/master/tmp/%E7%94%B5%E6%B1%A0%E7%94%B5%E6%BA%90%E5%88%87%E6%8D%A2%E7%94%B5%E8%B7%AF.png)
+
 # 外设
 ## GPIO外设
 ### LED
