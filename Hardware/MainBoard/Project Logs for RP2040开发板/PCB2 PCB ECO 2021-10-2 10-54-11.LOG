@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U6 Old Footprint=SOT89 New Footprint=SOT89_L
+Change Component Footprint: Designator=U7 Old Footprint=SOT89 New Footprint=SOT89_L
+Change Component Footprint: Designator=U8 Old Footprint=SOT89 New Footprint=SOT89_L
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=+5 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=+5 Pin=U7-3
+Added Pin To Net: NetName=AGND Pin=U8-1
+Added Pin To Net: NetName=+5 Pin=U8-3

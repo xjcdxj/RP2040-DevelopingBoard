@@ -1,0 +1,13 @@
+Added Component: Designator=U12(QFN24 4x4_L)
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=3V3 Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U12-9
+Added Pin To Net: NetName=NetC37_2 Pin=U12-10
+Added Pin To Net: NetName=GND Pin=U12-11
+Added Pin To Net: NetName=GPIO24 Pin=U12-12
+Added Pin To Net: NetName=3V3 Pin=U12-13
+Added Pin To Net: NetName=GND Pin=U12-18
+Added Pin To Net: NetName=NetC36_1 Pin=U12-20
+Added Pin To Net: NetName=GPIO3 Pin=U12-23
+Added Pin To Net: NetName=GPIO2 Pin=U12-24
+Added Pin To Net: NetName=GND Pin=U12-25

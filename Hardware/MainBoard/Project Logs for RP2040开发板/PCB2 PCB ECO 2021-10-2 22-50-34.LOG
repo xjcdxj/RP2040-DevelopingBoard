@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=VBUS Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=VBUS Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=E1-2
+Removed Pin From Net: NetName=+5 Pin=E2-1
+Removed Pin From Net: NetName=GND Pin=E2-2
+Removed Pin From Net: NetName=3V3A Pin=E3-1
+Removed Pin From Net: NetName=AGND Pin=E3-2
+Removed Pin From Net: NetName=GND Pin=JP3-2
+Removed Pin From Net: NetName=VBUS Pin=Q1-G
+Removed Pin From Net: NetName=NetQ3_D Pin=Q3-D
+Removed Pin From Net: NetName=GND Pin=Q3-S
+Removed Pin From Net: NetName=NetLS1_2 Pin=Q4-C
+Removed Pin From Net: NetName=GND Pin=Q4-E
+Removed Pin From Net: NetName=VBUS Pin=R3-2
+Removed Pin From Net: NetName=VBUS Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=VBUS Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=3V3 Pin=R22-2
+Removed Pin From Net: NetName=3V3 Pin=R32-1
+Removed Pin From Net: NetName=DQ Pin=R32-2
+Removed Pin From Net: NetName=VBUS Pin=u1-5
+Removed Pin From Net: NetName=GND Pin=u1-7
+Removed Pin From Net: NetName=GND Pin=u1-9
+Removed Pin From Net: NetName=3V3 Pin=U3-8
+Change Component Footprint: Designator=C26 Old Footprint=C 0603_L New Footprint=C 1206_L
+Change Component Footprint: Designator=C27 Old Footprint=C 0603_L New Footprint=C 1206_L
+Change Component Footprint: Designator=C15 Old Footprint=C 1206_L New Footprint=C 0603_L
+Change Component Footprint: Designator=C16 Old Footprint=C 1206_L New Footprint=C 0603_L
+Change Component Footprint: Designator=u1 Old Footprint=ESOP8_L New Footprint=SOIC-8-208mil
+Change Component Footprint: Designator=S1 Old Footprint=SK-12D07VG3 New Footprint=MSK-12C01-07
+Change Component Footprint: Designator=Q3 Old Footprint=SOT23 New Footprint=SOT23-3L
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23 New Footprint=SOT23-3L
+Change Component Footprint: Designator=U4 Old Footprint=TO92A New Footprint=GXHT30
+Change Component Comment : Designator=R23 Old Comment=10k New Comment=47k
+Change Component Comment : Designator=C14 Old Comment=10uF New Comment=16V/0.1uF
+Change Component Comment : Designator=C15 Old Comment=16V/0.1uF New Comment=22uF
+Change Component Comment : Designator=C16 Old Comment=16V/22uF New Comment=10uF
+Change Component Comment : Designator=U4 Old Comment=DS18B20 New Comment=GXHT30
+Change Component Comment : Designator=Q3 Old Comment=N-MOS New Comment=AO3400
+Change Component Comment : Designator=Q4 Old Comment=NPN New Comment=SS8050
+Change Component Comment : Designator=S1 Old Comment=SS-12F23 New Comment=FLASH
+Change Component Comment : Designator=u1 Old Comment=TP5400 New Comment=W125Q128JV
+Change Component Comment : Designator=K3 Old Comment=四角轻触开关 New Comment=ESP-IO0
+Change Component Comment : Designator=K4 Old Comment=四角轻触开关 New Comment=ESP-RST
+Change component parameters: Designator = "S1" ("S1"); Footprint = "SK-12D07VG3"; UniqueID = "\VDJLVLJO" ("\VDJLVLJO")
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT-23"; UniqueID = "\SYUBSTUH" ("\SYUBSTUH")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高频放大-NPN型"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOT23"; UniqueID = "\JAVJDNYZ" ("\JAVJDNYZ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "描述"; Value = "N沟道 30V/4.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C 1206_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=3V3A Pin=C16-1
+Added Pin To Net: NetName=AGND Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=3V3 Pin=C24-1
+Added Pin To Net: NetName=VBUS Pin=F1-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_D Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetLS1_2 Pin=Q4-3
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=RP2-3
+Added Pin To Net: NetName=3V3 Pin=S1-2
+Added Pin To Net: NetName=3V3 Pin=SCREEN1-10
+Added Pin To Net: NetName=3V3 Pin=SCREEN1-12
+Added Pin To Net: NetName=BOOTSEL Pin=u1-1
+Added Pin To Net: NetName=QSPI_SD1 Pin=u1-2
+Added Pin To Net: NetName=QSPI_SD2 Pin=u1-3
+Added Pin To Net: NetName=GND Pin=u1-4
+Added Pin To Net: NetName=QSPI_SD0 Pin=u1-5
+Added Pin To Net: NetName=QSPI_SCLK Pin=u1-6
+Added Pin To Net: NetName=QSPI_SD3 Pin=u1-7
+Added Pin To Net: NetName=BOOTSEL Pin=U2-56
+Added Pin To Net: NetName=BOOTSEL Pin=U3-1
+Added Pin To Net: NetName=GPIO2 Pin=U4-1
+Added Pin To Net: NetName=GPIO3 Pin=U4-4
+Added Pin To Net: NetName=3V3 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Change Net Name : Old Net Name=BOOTSEL New Net Name=QSPI_SS
+Change Net Name : Old Net Name=NetQ3_D New Net Name=NetQ3_3
+Added Pin To Net: NetName=FLASH1 Pin=C13-1
+Added Pin To Net: NetName=FLASH1 Pin=S1-3
+Added Pin To Net: NetName=FLASH1 Pin=u1-8
+Added Net: Name=FLASH1
+Added Pin To Net: NetName=FLASH2 Pin=C14-1
+Added Pin To Net: NetName=FLASH2 Pin=S1-1
+Added Pin To Net: NetName=FLASH2 Pin=U3-8
+Added Net: Name=FLASH2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R16-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R17-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R24-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R25-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U4-2
+Added Net: Name=NetR8_1

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FLASH1 Pin=C13-1
+Removed Pin From Net: NetName=FLASH2 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=C13-1
