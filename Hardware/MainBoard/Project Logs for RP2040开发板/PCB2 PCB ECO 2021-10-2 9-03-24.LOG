@@ -1,0 +1,12 @@
+Added Component: Designator=TYPEC1(TYPEC-16P)
+Added Pin To Net: NetName=GND Pin=TYPEC1-A1B12
+Added Pin To Net: NetName=VBUS Pin=TYPEC1-A4B9
+Added Pin To Net: NetName=NetR34_2 Pin=TYPEC1-A5
+Added Pin To Net: NetName=NetR6_2 Pin=TYPEC1-A6
+Added Pin To Net: NetName=NetR7_2 Pin=TYPEC1-A7
+Added Pin To Net: NetName=VBUS Pin=TYPEC1-A9B4
+Added Pin To Net: NetName=GND Pin=TYPEC1-A12B1
+Added Pin To Net: NetName=NetR35_2 Pin=TYPEC1-B5
+Added Pin To Net: NetName=NetR6_2 Pin=TYPEC1-B6
+Added Pin To Net: NetName=NetR7_2 Pin=TYPEC1-B7
+Added Member To Class: ClassName=PowerManager Member=Component TYPEC1 TYPEC16P
