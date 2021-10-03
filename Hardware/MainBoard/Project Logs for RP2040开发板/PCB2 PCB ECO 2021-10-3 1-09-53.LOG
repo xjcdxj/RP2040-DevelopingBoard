@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ESP_RST Pin=K4-1
+Removed Pin From Net: NetName=ESP_RST Pin=K4-2
+Change Component Comment : Designator=K2 Old Comment=BOOTSEL New Comment=BOOT
+Added Pin To Net: NetName=RST Pin=K4-1
+Added Pin To Net: NetName=RST Pin=K4-2
+Added Net: Name=RST

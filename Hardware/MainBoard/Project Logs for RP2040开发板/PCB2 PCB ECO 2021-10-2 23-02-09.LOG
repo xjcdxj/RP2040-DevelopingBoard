@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=NetLS1_2 Pin=Q4-3
+Removed Pin From Net: NetName=NetQ2_1 Pin=R14-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R15-1
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23 New Footprint=SOT23-3L
+Added Component: Designator=Q1(SOT23-3L)
+Add component (AddParameter): Name = "BOM名称"; Value = "高频放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1 Pin=R24-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R25-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R14-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R15-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=SCREEN1-11
+Added Net: Name=NetQ1_3
