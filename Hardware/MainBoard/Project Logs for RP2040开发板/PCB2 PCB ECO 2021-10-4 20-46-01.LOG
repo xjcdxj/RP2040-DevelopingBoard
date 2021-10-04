@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=74_EN Pin=JP1-9
+Removed Pin From Net: NetName=ADC_LIGHT Pin=JP1-26
+Removed Pin From Net: NetName=ADC_TEMP Pin=JP1-28
+Removed Pin From Net: NetName=74_EN Pin=U2-6
+Removed Pin From Net: NetName=ADC_LIGHT Pin=U2-39
+Removed Pin From Net: NetName=ADC_TEMP Pin=U2-40
+Added Pin To Net: NetName=ADC_LIGHT Pin=JP1-24
+Added Pin To Net: NetName=ADC_TEMP Pin=JP1-26
+Added Pin To Net: NetName=74_EN Pin=JP1-28
+Added Pin To Net: NetName=ADC_LIGHT Pin=U2-38
+Added Pin To Net: NetName=ADC_TEMP Pin=U2-39
+Added Pin To Net: NetName=74_EN Pin=U2-40
+Added Pin To Net: NetName=GPIO4 Pin=JP1-9
+Added Pin To Net: NetName=GPIO4 Pin=U2-6
+Added Net: Name=GPIO4

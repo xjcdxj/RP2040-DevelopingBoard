@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR11_2 Pin=U5-1
+Added Component: Designator=JP2(0603-3)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U5-1
+Added Net: Name=NetJP2_2

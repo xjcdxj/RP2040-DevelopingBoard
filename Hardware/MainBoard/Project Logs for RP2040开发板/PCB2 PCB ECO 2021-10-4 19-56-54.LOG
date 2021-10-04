@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R17-2
+Added Component: Designator=LB2(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "磁珠"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LB2-1
+Added Pin To Net: NetName=NetLB2_2 Pin=LB2-2
+Added Pin To Net: NetName=NetLB2_2 Pin=R16-2
+Added Pin To Net: NetName=NetLB2_2 Pin=U5-6
+Added Net: Name=NetLB2_2
