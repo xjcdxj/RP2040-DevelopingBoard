@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\XuJiacheng\Documents\GitHub\RP2040-DevelopingBoard\Hardware\MainBoard\PCB2.PcbDoc
+RuleKind=Width|RuleName=POWER|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

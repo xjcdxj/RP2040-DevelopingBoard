@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C9-2
+Change Component Comment : Designator=R17 Old Comment=1K New Comment=620R
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
